@@ -1,7 +1,7 @@
 # Crowding_code
 ### All the code need for analysing crowding as described in "A generic method for evaluating crowding in the emergency department"
 
-This is the repository for the R code used for data management and analysis in the research project "A generic methodology for evaluating crowding in the emergency department" by myself, Mogens Erlandsen, Anders Brøns Møllekær, Julie Mackenhauer and Hans Kirkegaard. The manuscript has been accepted for publication in BMS emergency medicine.
+This is the repository for the R code used for data management and analysis in the research project "A generic methodology for evaluating crowding in the emergency department" by myself, Mogens Erlandsen, Anders Brøns Møllekær, Julie Mackenhauer and Hans Kirkegaard. The manuscript has been accepted for publication in BMC emergency medicine.
 
 Unfortunately, due to legal restrictions data used for the analysis cannot be provided, but a constructed example of the data is provided ("example_data.csv").
 
