@@ -8,13 +8,14 @@
 # The following packages are needed for the provided code. If not already installed
 # they should be so with the install.packages() command.
 
-# library(dplyr)
-# library(tidyr)
-# library(lubridate)
-# library(Hmisc)
-# library(ggplot2)
-# library(grid)
-# library(gridExtra)
+library(dplyr)
+library(tidyr)
+library(lubridate)
+library(Hmisc)
+library(ggplot2)
+library(grid)
+library(gridExtra)
+library(magrittr)
 
 # Data should follow the specifications described in the supplied README and codebook files.
 
